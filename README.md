@@ -1,5 +1,5 @@
 
-# 🧠 Beyond Attrition: A People Analytics Investigation into Workforce Risk, Compensation & Retention
+# Beyond Attrition: A People Analytics Investigation into Workforce Risk, Compensation & Retention
 
 ---
 

@@ -177,7 +177,6 @@ These require two completely different HR interventions.
 
 ### Pay Equity Findings
 
-*(Insert Combo chart screenshot here)*
 
 The overall gender pay gap is 12.54% — but department analysis reveals a more nuanced story:
 
